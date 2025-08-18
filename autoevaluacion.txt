@@ -1,0 +1,10 @@
+Autoevaluación
+
+1) ¿Qué es un sistema de coordenadas?
+Es un marco de referencia que permite ubicar puntos y medir distancias mediante uno o más ejes numéricos perpendiculares, por ejemplo cartesiano (x, y) o geográfico (latitud, longitud).
+
+2) Tipos de representación gráfica de datos y ejemplo geoespacial
+Tablas, gráficos de barras, líneas, dispersión, pastel, histogramas, mapas de calor, diagramas de caja y mapa coroplético como ejemplo geoespacial (colorea regiones según un valor).
+
+3) ¿En qué consiste la visualización de datos?
+En transformar datos en representaciones gráficas comprensibles que revelen patrones, tendencias y relaciones para apoyar el análisis y la toma de decisiones.

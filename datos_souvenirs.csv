@@ -1,0 +1,721 @@
+fecha,categoria,producto,area_destino,entradas,salidas,costo_unitario,precio_unitario,ingreso,costo,utilidad
+2024-01-01,Playeras,Playera Logo,Ventas,116,20,120,260,5200,2400,2800
+2024-01-01,Playeras,Playera Logo,RRHH,116,3,120,260,780,360,420
+2024-01-01,Playeras,Playera Logo,Finanzas,116,3,120,260,780,360,420
+2024-01-01,Playeras,Playera Logo,Operaciones,116,1,120,260,260,120,140
+2024-01-01,Playeras,Playera Logo,Dirección,116,44,120,260,11440,5280,6160
+2024-01-01,Playeras,Playera Logo,Marketing Interno,116,20,120,260,5200,2400,2800
+2024-01-01,Tazas,Taza Logo,Ventas,127,59,60,140,8260,3540,4720
+2024-01-01,Tazas,Taza Logo,RRHH,127,7,60,140,980,420,560
+2024-01-01,Tazas,Taza Logo,Finanzas,127,6,60,140,840,360,480
+2024-01-01,Tazas,Taza Logo,Operaciones,127,6,60,140,840,360,480
+2024-01-01,Tazas,Taza Logo,Dirección,127,12,60,140,1680,720,960
+2024-01-01,Tazas,Taza Logo,Marketing Interno,127,24,60,140,3360,1440,1920
+2024-01-01,Llaveros,Llavero Metálico,Ventas,68,2,35,75,150,70,80
+2024-01-01,Llaveros,Llavero Metálico,RRHH,68,5,35,75,375,175,200
+2024-01-01,Llaveros,Llavero Metálico,Finanzas,68,6,35,75,450,210,240
+2024-01-01,Llaveros,Llavero Metálico,Operaciones,68,9,35,75,675,315,360
+2024-01-01,Llaveros,Llavero Metálico,Dirección,68,23,35,75,1725,805,920
+2024-01-01,Llaveros,Llavero Metálico,Marketing Interno,68,3,35,75,225,105,120
+2024-01-01,Gorras,Gorra Bordada,Ventas,70,2,90,220,440,180,260
+2024-01-01,Gorras,Gorra Bordada,RRHH,70,0,90,220,0,0,0
+2024-01-01,Gorras,Gorra Bordada,Finanzas,70,0,90,220,0,0,0
+2024-01-01,Gorras,Gorra Bordada,Operaciones,70,9,90,220,1980,810,1170
+2024-01-01,Gorras,Gorra Bordada,Dirección,70,10,90,220,2200,900,1300
+2024-01-01,Gorras,Gorra Bordada,Marketing Interno,70,5,90,220,1100,450,650
+2024-01-01,Bolsas,Bolsa Ecológica,Ventas,65,7,40,110,770,280,490
+2024-01-01,Bolsas,Bolsa Ecológica,RRHH,65,1,40,110,110,40,70
+2024-01-01,Bolsas,Bolsa Ecológica,Finanzas,65,8,40,110,880,320,560
+2024-01-01,Bolsas,Bolsa Ecológica,Operaciones,65,0,40,110,0,0,0
+2024-01-01,Bolsas,Bolsa Ecológica,Dirección,65,29,40,110,3190,1160,2030
+2024-01-01,Bolsas,Bolsa Ecológica,Marketing Interno,65,3,40,110,330,120,210
+2024-01-01,Playeras,Playera Edición,Ventas,125,6,120,260,1560,720,840
+2024-01-01,Playeras,Playera Edición,RRHH,125,1,120,260,260,120,140
+2024-01-01,Playeras,Playera Edición,Finanzas,125,26,120,260,6760,3120,3640
+2024-01-01,Playeras,Playera Edición,Operaciones,125,11,120,260,2860,1320,1540
+2024-01-01,Playeras,Playera Edición,Dirección,125,21,120,260,5460,2520,2940
+2024-01-01,Playeras,Playera Edición,Marketing Interno,125,17,120,260,4420,2040,2380
+2024-01-01,Tazas,Taza Color,Ventas,123,3,60,140,420,180,240
+2024-01-01,Tazas,Taza Color,RRHH,123,0,60,140,0,0,0
+2024-01-01,Tazas,Taza Color,Finanzas,123,6,60,140,840,360,480
+2024-01-01,Tazas,Taza Color,Operaciones,123,8,60,140,1120,480,640
+2024-01-01,Tazas,Taza Color,Dirección,123,5,60,140,700,300,400
+2024-01-01,Tazas,Taza Color,Marketing Interno,123,30,60,140,4200,1800,2400
+2024-01-01,Llaveros,Llavero Acrílico,Ventas,66,0,35,75,0,0,0
+2024-01-01,Llaveros,Llavero Acrílico,RRHH,66,9,35,75,675,315,360
+2024-01-01,Llaveros,Llavero Acrílico,Finanzas,66,0,35,75,0,0,0
+2024-01-01,Llaveros,Llavero Acrílico,Operaciones,66,25,35,75,1875,875,1000
+2024-01-01,Llaveros,Llavero Acrílico,Dirección,66,8,35,75,600,280,320
+2024-01-01,Llaveros,Llavero Acrílico,Marketing Interno,66,1,35,75,75,35,40
+2024-01-01,Gorras,Gorra Snapback,Ventas,75,1,90,220,220,90,130
+2024-01-01,Gorras,Gorra Snapback,RRHH,75,6,90,220,1320,540,780
+2024-01-01,Gorras,Gorra Snapback,Finanzas,75,1,90,220,220,90,130
+2024-01-01,Gorras,Gorra Snapback,Operaciones,75,30,90,220,6600,2700,3900
+2024-01-01,Gorras,Gorra Snapback,Dirección,75,14,90,220,3080,1260,1820
+2024-01-01,Gorras,Gorra Snapback,Marketing Interno,75,6,90,220,1320,540,780
+2024-01-01,Bolsas,Bolsa Premium,Ventas,54,6,40,110,660,240,420
+2024-01-01,Bolsas,Bolsa Premium,RRHH,54,4,40,110,440,160,280
+2024-01-01,Bolsas,Bolsa Premium,Finanzas,54,10,40,110,1100,400,700
+2024-01-01,Bolsas,Bolsa Premium,Operaciones,54,3,40,110,330,120,210
+2024-01-01,Bolsas,Bolsa Premium,Dirección,54,0,40,110,0,0,0
+2024-01-01,Bolsas,Bolsa Premium,Marketing Interno,54,5,40,110,550,200,350
+2024-02-01,Playeras,Playera Logo,Ventas,129,33,120,260,8580,3960,4620
+2024-02-01,Playeras,Playera Logo,RRHH,129,36,120,260,9360,4320,5040
+2024-02-01,Playeras,Playera Logo,Finanzas,129,27,120,260,7020,3240,3780
+2024-02-01,Playeras,Playera Logo,Operaciones,129,1,120,260,260,120,140
+2024-02-01,Playeras,Playera Logo,Dirección,129,5,120,260,1300,600,700
+2024-02-01,Playeras,Playera Logo,Marketing Interno,129,1,120,260,260,120,140
+2024-02-01,Tazas,Taza Logo,Ventas,124,40,60,140,5600,2400,3200
+2024-02-01,Tazas,Taza Logo,RRHH,124,4,60,140,560,240,320
+2024-02-01,Tazas,Taza Logo,Finanzas,124,8,60,140,1120,480,640
+2024-02-01,Tazas,Taza Logo,Operaciones,124,23,60,140,3220,1380,1840
+2024-02-01,Tazas,Taza Logo,Dirección,124,4,60,140,560,240,320
+2024-02-01,Tazas,Taza Logo,Marketing Interno,124,1,60,140,140,60,80
+2024-02-01,Llaveros,Llavero Metálico,Ventas,65,11,35,75,825,385,440
+2024-02-01,Llaveros,Llavero Metálico,RRHH,65,6,35,75,450,210,240
+2024-02-01,Llaveros,Llavero Metálico,Finanzas,65,13,35,75,975,455,520
+2024-02-01,Llaveros,Llavero Metálico,Operaciones,65,10,35,75,750,350,400
+2024-02-01,Llaveros,Llavero Metálico,Dirección,65,1,35,75,75,35,40
+2024-02-01,Llaveros,Llavero Metálico,Marketing Interno,65,15,35,75,1125,525,600
+2024-02-01,Gorras,Gorra Bordada,Ventas,71,4,90,220,880,360,520
+2024-02-01,Gorras,Gorra Bordada,RRHH,71,1,90,220,220,90,130
+2024-02-01,Gorras,Gorra Bordada,Finanzas,71,3,90,220,660,270,390
+2024-02-01,Gorras,Gorra Bordada,Operaciones,71,7,90,220,1540,630,910
+2024-02-01,Gorras,Gorra Bordada,Dirección,71,21,90,220,4620,1890,2730
+2024-02-01,Gorras,Gorra Bordada,Marketing Interno,71,24,90,220,5280,2160,3120
+2024-02-01,Bolsas,Bolsa Ecológica,Ventas,68,2,40,110,220,80,140
+2024-02-01,Bolsas,Bolsa Ecológica,RRHH,68,14,40,110,1540,560,980
+2024-02-01,Bolsas,Bolsa Ecológica,Finanzas,68,1,40,110,110,40,70
+2024-02-01,Bolsas,Bolsa Ecológica,Operaciones,68,3,40,110,330,120,210
+2024-02-01,Bolsas,Bolsa Ecológica,Dirección,68,6,40,110,660,240,420
+2024-02-01,Bolsas,Bolsa Ecológica,Marketing Interno,68,2,40,110,220,80,140
+2024-02-01,Playeras,Playera Edición,Ventas,112,8,120,260,2080,960,1120
+2024-02-01,Playeras,Playera Edición,RRHH,112,0,120,260,0,0,0
+2024-02-01,Playeras,Playera Edición,Finanzas,112,24,120,260,6240,2880,3360
+2024-02-01,Playeras,Playera Edición,Operaciones,112,18,120,260,4680,2160,2520
+2024-02-01,Playeras,Playera Edición,Dirección,112,1,120,260,260,120,140
+2024-02-01,Playeras,Playera Edición,Marketing Interno,112,8,120,260,2080,960,1120
+2024-02-01,Tazas,Taza Color,Ventas,137,5,60,140,700,300,400
+2024-02-01,Tazas,Taza Color,RRHH,137,34,60,140,4760,2040,2720
+2024-02-01,Tazas,Taza Color,Finanzas,137,2,60,140,280,120,160
+2024-02-01,Tazas,Taza Color,Operaciones,137,9,60,140,1260,540,720
+2024-02-01,Tazas,Taza Color,Dirección,137,11,60,140,1540,660,880
+2024-02-01,Tazas,Taza Color,Marketing Interno,137,2,60,140,280,120,160
+2024-02-01,Llaveros,Llavero Acrílico,Ventas,76,13,35,75,975,455,520
+2024-02-01,Llaveros,Llavero Acrílico,RRHH,76,10,35,75,750,350,400
+2024-02-01,Llaveros,Llavero Acrílico,Finanzas,76,1,35,75,75,35,40
+2024-02-01,Llaveros,Llavero Acrílico,Operaciones,76,23,35,75,1725,805,920
+2024-02-01,Llaveros,Llavero Acrílico,Dirección,76,5,35,75,375,175,200
+2024-02-01,Llaveros,Llavero Acrílico,Marketing Interno,76,2,35,75,150,70,80
+2024-02-01,Gorras,Gorra Snapback,Ventas,74,2,90,220,440,180,260
+2024-02-01,Gorras,Gorra Snapback,RRHH,74,8,90,220,1760,720,1040
+2024-02-01,Gorras,Gorra Snapback,Finanzas,74,1,90,220,220,90,130
+2024-02-01,Gorras,Gorra Snapback,Operaciones,74,9,90,220,1980,810,1170
+2024-02-01,Gorras,Gorra Snapback,Dirección,74,4,90,220,880,360,520
+2024-02-01,Gorras,Gorra Snapback,Marketing Interno,74,23,90,220,5060,2070,2990
+2024-02-01,Bolsas,Bolsa Premium,Ventas,59,8,40,110,880,320,560
+2024-02-01,Bolsas,Bolsa Premium,RRHH,59,6,40,110,660,240,420
+2024-02-01,Bolsas,Bolsa Premium,Finanzas,59,0,40,110,0,0,0
+2024-02-01,Bolsas,Bolsa Premium,Operaciones,59,3,40,110,330,120,210
+2024-02-01,Bolsas,Bolsa Premium,Dirección,59,5,40,110,550,200,350
+2024-02-01,Bolsas,Bolsa Premium,Marketing Interno,59,2,40,110,220,80,140
+2024-03-01,Playeras,Playera Logo,Ventas,121,15,120,260,3900,1800,2100
+2024-03-01,Playeras,Playera Logo,RRHH,121,16,120,260,4160,1920,2240
+2024-03-01,Playeras,Playera Logo,Finanzas,121,7,120,260,1820,840,980
+2024-03-01,Playeras,Playera Logo,Operaciones,121,2,120,260,520,240,280
+2024-03-01,Playeras,Playera Logo,Dirección,121,3,120,260,780,360,420
+2024-03-01,Playeras,Playera Logo,Marketing Interno,121,9,120,260,2340,1080,1260
+2024-03-01,Tazas,Taza Logo,Ventas,136,25,60,140,3500,1500,2000
+2024-03-01,Tazas,Taza Logo,RRHH,136,2,60,140,280,120,160
+2024-03-01,Tazas,Taza Logo,Finanzas,136,4,60,140,560,240,320
+2024-03-01,Tazas,Taza Logo,Operaciones,136,56,60,140,7840,3360,4480
+2024-03-01,Tazas,Taza Logo,Dirección,136,23,60,140,3220,1380,1840
+2024-03-01,Tazas,Taza Logo,Marketing Interno,136,0,60,140,0,0,0
+2024-03-01,Llaveros,Llavero Metálico,Ventas,57,0,35,75,0,0,0
+2024-03-01,Llaveros,Llavero Metálico,RRHH,57,3,35,75,225,105,120
+2024-03-01,Llaveros,Llavero Metálico,Finanzas,57,5,35,75,375,175,200
+2024-03-01,Llaveros,Llavero Metálico,Operaciones,57,4,35,75,300,140,160
+2024-03-01,Llaveros,Llavero Metálico,Dirección,57,1,35,75,75,35,40
+2024-03-01,Llaveros,Llavero Metálico,Marketing Interno,57,5,35,75,375,175,200
+2024-03-01,Gorras,Gorra Bordada,Ventas,63,9,90,220,1980,810,1170
+2024-03-01,Gorras,Gorra Bordada,RRHH,63,17,90,220,3740,1530,2210
+2024-03-01,Gorras,Gorra Bordada,Finanzas,63,10,90,220,2200,900,1300
+2024-03-01,Gorras,Gorra Bordada,Operaciones,63,7,90,220,1540,630,910
+2024-03-01,Gorras,Gorra Bordada,Dirección,63,0,90,220,0,0,0
+2024-03-01,Gorras,Gorra Bordada,Marketing Interno,63,4,90,220,880,360,520
+2024-03-01,Bolsas,Bolsa Ecológica,Ventas,64,4,40,110,440,160,280
+2024-03-01,Bolsas,Bolsa Ecológica,RRHH,64,19,40,110,2090,760,1330
+2024-03-01,Bolsas,Bolsa Ecológica,Finanzas,64,8,40,110,880,320,560
+2024-03-01,Bolsas,Bolsa Ecológica,Operaciones,64,13,40,110,1430,520,910
+2024-03-01,Bolsas,Bolsa Ecológica,Dirección,64,6,40,110,660,240,420
+2024-03-01,Bolsas,Bolsa Ecológica,Marketing Interno,64,7,40,110,770,280,490
+2024-03-01,Playeras,Playera Edición,Ventas,120,4,120,260,1040,480,560
+2024-03-01,Playeras,Playera Edición,RRHH,120,0,120,260,0,0,0
+2024-03-01,Playeras,Playera Edición,Finanzas,120,13,120,260,3380,1560,1820
+2024-03-01,Playeras,Playera Edición,Operaciones,120,2,120,260,520,240,280
+2024-03-01,Playeras,Playera Edición,Dirección,120,35,120,260,9100,4200,4900
+2024-03-01,Playeras,Playera Edición,Marketing Interno,120,39,120,260,10140,4680,5460
+2024-03-01,Tazas,Taza Color,Ventas,138,12,60,140,1680,720,960
+2024-03-01,Tazas,Taza Color,RRHH,138,2,60,140,280,120,160
+2024-03-01,Tazas,Taza Color,Finanzas,138,15,60,140,2100,900,1200
+2024-03-01,Tazas,Taza Color,Operaciones,138,15,60,140,2100,900,1200
+2024-03-01,Tazas,Taza Color,Dirección,138,8,60,140,1120,480,640
+2024-03-01,Tazas,Taza Color,Marketing Interno,138,1,60,140,140,60,80
+2024-03-01,Llaveros,Llavero Acrílico,Ventas,67,1,35,75,75,35,40
+2024-03-01,Llaveros,Llavero Acrílico,RRHH,67,5,35,75,375,175,200
+2024-03-01,Llaveros,Llavero Acrílico,Finanzas,67,17,35,75,1275,595,680
+2024-03-01,Llaveros,Llavero Acrílico,Operaciones,67,7,35,75,525,245,280
+2024-03-01,Llaveros,Llavero Acrílico,Dirección,67,5,35,75,375,175,200
+2024-03-01,Llaveros,Llavero Acrílico,Marketing Interno,67,0,35,75,0,0,0
+2024-03-01,Gorras,Gorra Snapback,Ventas,59,11,90,220,2420,990,1430
+2024-03-01,Gorras,Gorra Snapback,RRHH,59,10,90,220,2200,900,1300
+2024-03-01,Gorras,Gorra Snapback,Finanzas,59,10,90,220,2200,900,1300
+2024-03-01,Gorras,Gorra Snapback,Operaciones,59,3,90,220,660,270,390
+2024-03-01,Gorras,Gorra Snapback,Dirección,59,2,90,220,440,180,260
+2024-03-01,Gorras,Gorra Snapback,Marketing Interno,59,13,90,220,2860,1170,1690
+2024-03-01,Bolsas,Bolsa Premium,Ventas,78,7,40,110,770,280,490
+2024-03-01,Bolsas,Bolsa Premium,RRHH,78,7,40,110,770,280,490
+2024-03-01,Bolsas,Bolsa Premium,Finanzas,78,16,40,110,1760,640,1120
+2024-03-01,Bolsas,Bolsa Premium,Operaciones,78,10,40,110,1100,400,700
+2024-03-01,Bolsas,Bolsa Premium,Dirección,78,12,40,110,1320,480,840
+2024-03-01,Bolsas,Bolsa Premium,Marketing Interno,78,16,40,110,1760,640,1120
+2024-04-01,Playeras,Playera Logo,Ventas,136,2,120,260,520,240,280
+2024-04-01,Playeras,Playera Logo,RRHH,136,25,120,260,6500,3000,3500
+2024-04-01,Playeras,Playera Logo,Finanzas,136,1,120,260,260,120,140
+2024-04-01,Playeras,Playera Logo,Operaciones,136,18,120,260,4680,2160,2520
+2024-04-01,Playeras,Playera Logo,Dirección,136,23,120,260,5980,2760,3220
+2024-04-01,Playeras,Playera Logo,Marketing Interno,136,10,120,260,2600,1200,1400
+2024-04-01,Tazas,Taza Logo,Ventas,123,18,60,140,2520,1080,1440
+2024-04-01,Tazas,Taza Logo,RRHH,123,4,60,140,560,240,320
+2024-04-01,Tazas,Taza Logo,Finanzas,123,1,60,140,140,60,80
+2024-04-01,Tazas,Taza Logo,Operaciones,123,7,60,140,980,420,560
+2024-04-01,Tazas,Taza Logo,Dirección,123,15,60,140,2100,900,1200
+2024-04-01,Tazas,Taza Logo,Marketing Interno,123,2,60,140,280,120,160
+2024-04-01,Llaveros,Llavero Metálico,Ventas,73,2,35,75,150,70,80
+2024-04-01,Llaveros,Llavero Metálico,RRHH,73,2,35,75,150,70,80
+2024-04-01,Llaveros,Llavero Metálico,Finanzas,73,3,35,75,225,105,120
+2024-04-01,Llaveros,Llavero Metálico,Operaciones,73,4,35,75,300,140,160
+2024-04-01,Llaveros,Llavero Metálico,Dirección,73,13,35,75,975,455,520
+2024-04-01,Llaveros,Llavero Metálico,Marketing Interno,73,2,35,75,150,70,80
+2024-04-01,Gorras,Gorra Bordada,Ventas,65,2,90,220,440,180,260
+2024-04-01,Gorras,Gorra Bordada,RRHH,65,0,90,220,0,0,0
+2024-04-01,Gorras,Gorra Bordada,Finanzas,65,0,90,220,0,0,0
+2024-04-01,Gorras,Gorra Bordada,Operaciones,65,16,90,220,3520,1440,2080
+2024-04-01,Gorras,Gorra Bordada,Dirección,65,9,90,220,1980,810,1170
+2024-04-01,Gorras,Gorra Bordada,Marketing Interno,65,5,90,220,1100,450,650
+2024-04-01,Bolsas,Bolsa Ecológica,Ventas,68,1,40,110,110,40,70
+2024-04-01,Bolsas,Bolsa Ecológica,RRHH,68,3,40,110,330,120,210
+2024-04-01,Bolsas,Bolsa Ecológica,Finanzas,68,6,40,110,660,240,420
+2024-04-01,Bolsas,Bolsa Ecológica,Operaciones,68,5,40,110,550,200,350
+2024-04-01,Bolsas,Bolsa Ecológica,Dirección,68,1,40,110,110,40,70
+2024-04-01,Bolsas,Bolsa Ecológica,Marketing Interno,68,14,40,110,1540,560,980
+2024-04-01,Playeras,Playera Edición,Ventas,128,18,120,260,4680,2160,2520
+2024-04-01,Playeras,Playera Edición,RRHH,128,9,120,260,2340,1080,1260
+2024-04-01,Playeras,Playera Edición,Finanzas,128,14,120,260,3640,1680,1960
+2024-04-01,Playeras,Playera Edición,Operaciones,128,47,120,260,12220,5640,6580
+2024-04-01,Playeras,Playera Edición,Dirección,128,0,120,260,0,0,0
+2024-04-01,Playeras,Playera Edición,Marketing Interno,128,4,120,260,1040,480,560
+2024-04-01,Tazas,Taza Color,Ventas,94,28,60,140,3920,1680,2240
+2024-04-01,Tazas,Taza Color,RRHH,94,15,60,140,2100,900,1200
+2024-04-01,Tazas,Taza Color,Finanzas,94,2,60,140,280,120,160
+2024-04-01,Tazas,Taza Color,Operaciones,94,15,60,140,2100,900,1200
+2024-04-01,Tazas,Taza Color,Dirección,94,14,60,140,1960,840,1120
+2024-04-01,Tazas,Taza Color,Marketing Interno,94,4,60,140,560,240,320
+2024-04-01,Llaveros,Llavero Acrílico,Ventas,68,9,35,75,675,315,360
+2024-04-01,Llaveros,Llavero Acrílico,RRHH,68,0,35,75,0,0,0
+2024-04-01,Llaveros,Llavero Acrílico,Finanzas,68,4,35,75,300,140,160
+2024-04-01,Llaveros,Llavero Acrílico,Operaciones,68,9,35,75,675,315,360
+2024-04-01,Llaveros,Llavero Acrílico,Dirección,68,6,35,75,450,210,240
+2024-04-01,Llaveros,Llavero Acrílico,Marketing Interno,68,18,35,75,1350,630,720
+2024-04-01,Gorras,Gorra Snapback,Ventas,74,5,90,220,1100,450,650
+2024-04-01,Gorras,Gorra Snapback,RRHH,74,0,90,220,0,0,0
+2024-04-01,Gorras,Gorra Snapback,Finanzas,74,4,90,220,880,360,520
+2024-04-01,Gorras,Gorra Snapback,Operaciones,74,14,90,220,3080,1260,1820
+2024-04-01,Gorras,Gorra Snapback,Dirección,74,4,90,220,880,360,520
+2024-04-01,Gorras,Gorra Snapback,Marketing Interno,74,2,90,220,440,180,260
+2024-04-01,Bolsas,Bolsa Premium,Ventas,73,15,40,110,1650,600,1050
+2024-04-01,Bolsas,Bolsa Premium,RRHH,73,2,40,110,220,80,140
+2024-04-01,Bolsas,Bolsa Premium,Finanzas,73,17,40,110,1870,680,1190
+2024-04-01,Bolsas,Bolsa Premium,Operaciones,73,13,40,110,1430,520,910
+2024-04-01,Bolsas,Bolsa Premium,Dirección,73,1,40,110,110,40,70
+2024-04-01,Bolsas,Bolsa Premium,Marketing Interno,73,0,40,110,0,0,0
+2024-05-01,Playeras,Playera Logo,Ventas,103,10,120,260,2600,1200,1400
+2024-05-01,Playeras,Playera Logo,RRHH,103,0,120,260,0,0,0
+2024-05-01,Playeras,Playera Logo,Finanzas,103,3,120,260,780,360,420
+2024-05-01,Playeras,Playera Logo,Operaciones,103,16,120,260,4160,1920,2240
+2024-05-01,Playeras,Playera Logo,Dirección,103,0,120,260,0,0,0
+2024-05-01,Playeras,Playera Logo,Marketing Interno,103,14,120,260,3640,1680,1960
+2024-05-01,Tazas,Taza Logo,Ventas,113,13,60,140,1820,780,1040
+2024-05-01,Tazas,Taza Logo,RRHH,113,28,60,140,3920,1680,2240
+2024-05-01,Tazas,Taza Logo,Finanzas,113,17,60,140,2380,1020,1360
+2024-05-01,Tazas,Taza Logo,Operaciones,113,21,60,140,2940,1260,1680
+2024-05-01,Tazas,Taza Logo,Dirección,113,4,60,140,560,240,320
+2024-05-01,Tazas,Taza Logo,Marketing Interno,113,2,60,140,280,120,160
+2024-05-01,Llaveros,Llavero Metálico,Ventas,76,5,35,75,375,175,200
+2024-05-01,Llaveros,Llavero Metálico,RRHH,76,4,35,75,300,140,160
+2024-05-01,Llaveros,Llavero Metálico,Finanzas,76,14,35,75,1050,490,560
+2024-05-01,Llaveros,Llavero Metálico,Operaciones,76,3,35,75,225,105,120
+2024-05-01,Llaveros,Llavero Metálico,Dirección,76,25,35,75,1875,875,1000
+2024-05-01,Llaveros,Llavero Metálico,Marketing Interno,76,18,35,75,1350,630,720
+2024-05-01,Gorras,Gorra Bordada,Ventas,68,0,90,220,0,0,0
+2024-05-01,Gorras,Gorra Bordada,RRHH,68,16,90,220,3520,1440,2080
+2024-05-01,Gorras,Gorra Bordada,Finanzas,68,5,90,220,1100,450,650
+2024-05-01,Gorras,Gorra Bordada,Operaciones,68,12,90,220,2640,1080,1560
+2024-05-01,Gorras,Gorra Bordada,Dirección,68,2,90,220,440,180,260
+2024-05-01,Gorras,Gorra Bordada,Marketing Interno,68,16,90,220,3520,1440,2080
+2024-05-01,Bolsas,Bolsa Ecológica,Ventas,67,0,40,110,0,0,0
+2024-05-01,Bolsas,Bolsa Ecológica,RRHH,67,2,40,110,220,80,140
+2024-05-01,Bolsas,Bolsa Ecológica,Finanzas,67,21,40,110,2310,840,1470
+2024-05-01,Bolsas,Bolsa Ecológica,Operaciones,67,21,40,110,2310,840,1470
+2024-05-01,Bolsas,Bolsa Ecológica,Dirección,67,6,40,110,660,240,420
+2024-05-01,Bolsas,Bolsa Ecológica,Marketing Interno,67,7,40,110,770,280,490
+2024-05-01,Playeras,Playera Edición,Ventas,118,11,120,260,2860,1320,1540
+2024-05-01,Playeras,Playera Edición,RRHH,118,14,120,260,3640,1680,1960
+2024-05-01,Playeras,Playera Edición,Finanzas,118,16,120,260,4160,1920,2240
+2024-05-01,Playeras,Playera Edición,Operaciones,118,16,120,260,4160,1920,2240
+2024-05-01,Playeras,Playera Edición,Dirección,118,1,120,260,260,120,140
+2024-05-01,Playeras,Playera Edición,Marketing Interno,118,7,120,260,1820,840,980
+2024-05-01,Tazas,Taza Color,Ventas,97,25,60,140,3500,1500,2000
+2024-05-01,Tazas,Taza Color,RRHH,97,5,60,140,700,300,400
+2024-05-01,Tazas,Taza Color,Finanzas,97,1,60,140,140,60,80
+2024-05-01,Tazas,Taza Color,Operaciones,97,1,60,140,140,60,80
+2024-05-01,Tazas,Taza Color,Dirección,97,16,60,140,2240,960,1280
+2024-05-01,Tazas,Taza Color,Marketing Interno,97,11,60,140,1540,660,880
+2024-05-01,Llaveros,Llavero Acrílico,Ventas,57,0,35,75,0,0,0
+2024-05-01,Llaveros,Llavero Acrílico,RRHH,57,10,35,75,750,350,400
+2024-05-01,Llaveros,Llavero Acrílico,Finanzas,57,7,35,75,525,245,280
+2024-05-01,Llaveros,Llavero Acrílico,Operaciones,57,0,35,75,0,0,0
+2024-05-01,Llaveros,Llavero Acrílico,Dirección,57,0,35,75,0,0,0
+2024-05-01,Llaveros,Llavero Acrílico,Marketing Interno,57,25,35,75,1875,875,1000
+2024-05-01,Gorras,Gorra Snapback,Ventas,67,15,90,220,3300,1350,1950
+2024-05-01,Gorras,Gorra Snapback,RRHH,67,22,90,220,4840,1980,2860
+2024-05-01,Gorras,Gorra Snapback,Finanzas,67,7,90,220,1540,630,910
+2024-05-01,Gorras,Gorra Snapback,Operaciones,67,2,90,220,440,180,260
+2024-05-01,Gorras,Gorra Snapback,Dirección,67,0,90,220,0,0,0
+2024-05-01,Gorras,Gorra Snapback,Marketing Interno,67,7,90,220,1540,630,910
+2024-05-01,Bolsas,Bolsa Premium,Ventas,71,4,40,110,440,160,280
+2024-05-01,Bolsas,Bolsa Premium,RRHH,71,26,40,110,2860,1040,1820
+2024-05-01,Bolsas,Bolsa Premium,Finanzas,71,0,40,110,0,0,0
+2024-05-01,Bolsas,Bolsa Premium,Operaciones,71,24,40,110,2640,960,1680
+2024-05-01,Bolsas,Bolsa Premium,Dirección,71,2,40,110,220,80,140
+2024-05-01,Bolsas,Bolsa Premium,Marketing Interno,71,4,40,110,440,160,280
+2024-06-01,Playeras,Playera Logo,Ventas,105,10,120,260,2600,1200,1400
+2024-06-01,Playeras,Playera Logo,RRHH,105,38,120,260,9880,4560,5320
+2024-06-01,Playeras,Playera Logo,Finanzas,105,5,120,260,1300,600,700
+2024-06-01,Playeras,Playera Logo,Operaciones,105,3,120,260,780,360,420
+2024-06-01,Playeras,Playera Logo,Dirección,105,23,120,260,5980,2760,3220
+2024-06-01,Playeras,Playera Logo,Marketing Interno,105,2,120,260,520,240,280
+2024-06-01,Tazas,Taza Logo,Ventas,150,0,60,140,0,0,0
+2024-06-01,Tazas,Taza Logo,RRHH,150,35,60,140,4900,2100,2800
+2024-06-01,Tazas,Taza Logo,Finanzas,150,11,60,140,1540,660,880
+2024-06-01,Tazas,Taza Logo,Operaciones,150,78,60,140,10920,4680,6240
+2024-06-01,Tazas,Taza Logo,Dirección,150,1,60,140,140,60,80
+2024-06-01,Tazas,Taza Logo,Marketing Interno,150,12,60,140,1680,720,960
+2024-06-01,Llaveros,Llavero Metálico,Ventas,73,6,35,75,450,210,240
+2024-06-01,Llaveros,Llavero Metálico,RRHH,73,5,35,75,375,175,200
+2024-06-01,Llaveros,Llavero Metálico,Finanzas,73,14,35,75,1050,490,560
+2024-06-01,Llaveros,Llavero Metálico,Operaciones,73,0,35,75,0,0,0
+2024-06-01,Llaveros,Llavero Metálico,Dirección,73,2,35,75,150,70,80
+2024-06-01,Llaveros,Llavero Metálico,Marketing Interno,73,18,35,75,1350,630,720
+2024-06-01,Gorras,Gorra Bordada,Ventas,82,7,90,220,1540,630,910
+2024-06-01,Gorras,Gorra Bordada,RRHH,82,4,90,220,880,360,520
+2024-06-01,Gorras,Gorra Bordada,Finanzas,82,14,90,220,3080,1260,1820
+2024-06-01,Gorras,Gorra Bordada,Operaciones,82,10,90,220,2200,900,1300
+2024-06-01,Gorras,Gorra Bordada,Dirección,82,20,90,220,4400,1800,2600
+2024-06-01,Gorras,Gorra Bordada,Marketing Interno,82,1,90,220,220,90,130
+2024-06-01,Bolsas,Bolsa Ecológica,Ventas,75,6,40,110,660,240,420
+2024-06-01,Bolsas,Bolsa Ecológica,RRHH,75,4,40,110,440,160,280
+2024-06-01,Bolsas,Bolsa Ecológica,Finanzas,75,0,40,110,0,0,0
+2024-06-01,Bolsas,Bolsa Ecológica,Operaciones,75,10,40,110,1100,400,700
+2024-06-01,Bolsas,Bolsa Ecológica,Dirección,75,7,40,110,770,280,490
+2024-06-01,Bolsas,Bolsa Ecológica,Marketing Interno,75,12,40,110,1320,480,840
+2024-06-01,Playeras,Playera Edición,Ventas,127,31,120,260,8060,3720,4340
+2024-06-01,Playeras,Playera Edición,RRHH,127,23,120,260,5980,2760,3220
+2024-06-01,Playeras,Playera Edición,Finanzas,127,0,120,260,0,0,0
+2024-06-01,Playeras,Playera Edición,Operaciones,127,0,120,260,0,0,0
+2024-06-01,Playeras,Playera Edición,Dirección,127,5,120,260,1300,600,700
+2024-06-01,Playeras,Playera Edición,Marketing Interno,127,19,120,260,4940,2280,2660
+2024-06-01,Tazas,Taza Color,Ventas,123,40,60,140,5600,2400,3200
+2024-06-01,Tazas,Taza Color,RRHH,123,39,60,140,5460,2340,3120
+2024-06-01,Tazas,Taza Color,Finanzas,123,13,60,140,1820,780,1040
+2024-06-01,Tazas,Taza Color,Operaciones,123,11,60,140,1540,660,880
+2024-06-01,Tazas,Taza Color,Dirección,123,6,60,140,840,360,480
+2024-06-01,Tazas,Taza Color,Marketing Interno,123,1,60,140,140,60,80
+2024-06-01,Llaveros,Llavero Acrílico,Ventas,71,17,35,75,1275,595,680
+2024-06-01,Llaveros,Llavero Acrílico,RRHH,71,2,35,75,150,70,80
+2024-06-01,Llaveros,Llavero Acrílico,Finanzas,71,5,35,75,375,175,200
+2024-06-01,Llaveros,Llavero Acrílico,Operaciones,71,1,35,75,75,35,40
+2024-06-01,Llaveros,Llavero Acrílico,Dirección,71,28,35,75,2100,980,1120
+2024-06-01,Llaveros,Llavero Acrílico,Marketing Interno,71,8,35,75,600,280,320
+2024-06-01,Gorras,Gorra Snapback,Ventas,63,4,90,220,880,360,520
+2024-06-01,Gorras,Gorra Snapback,RRHH,63,1,90,220,220,90,130
+2024-06-01,Gorras,Gorra Snapback,Finanzas,63,11,90,220,2420,990,1430
+2024-06-01,Gorras,Gorra Snapback,Operaciones,63,7,90,220,1540,630,910
+2024-06-01,Gorras,Gorra Snapback,Dirección,63,14,90,220,3080,1260,1820
+2024-06-01,Gorras,Gorra Snapback,Marketing Interno,63,7,90,220,1540,630,910
+2024-06-01,Bolsas,Bolsa Premium,Ventas,80,22,40,110,2420,880,1540
+2024-06-01,Bolsas,Bolsa Premium,RRHH,80,5,40,110,550,200,350
+2024-06-01,Bolsas,Bolsa Premium,Finanzas,80,1,40,110,110,40,70
+2024-06-01,Bolsas,Bolsa Premium,Operaciones,80,0,40,110,0,0,0
+2024-06-01,Bolsas,Bolsa Premium,Dirección,80,15,40,110,1650,600,1050
+2024-06-01,Bolsas,Bolsa Premium,Marketing Interno,80,10,40,110,1100,400,700
+2024-07-01,Playeras,Playera Logo,Ventas,127,0,120,260,0,0,0
+2024-07-01,Playeras,Playera Logo,RRHH,127,5,120,260,1300,600,700
+2024-07-01,Playeras,Playera Logo,Finanzas,127,11,120,260,2860,1320,1540
+2024-07-01,Playeras,Playera Logo,Operaciones,127,6,120,260,1560,720,840
+2024-07-01,Playeras,Playera Logo,Dirección,127,7,120,260,1820,840,980
+2024-07-01,Playeras,Playera Logo,Marketing Interno,127,29,120,260,7540,3480,4060
+2024-07-01,Tazas,Taza Logo,Ventas,115,5,60,140,700,300,400
+2024-07-01,Tazas,Taza Logo,RRHH,115,10,60,140,1400,600,800
+2024-07-01,Tazas,Taza Logo,Finanzas,115,20,60,140,2800,1200,1600
+2024-07-01,Tazas,Taza Logo,Operaciones,115,30,60,140,4200,1800,2400
+2024-07-01,Tazas,Taza Logo,Dirección,115,1,60,140,140,60,80
+2024-07-01,Tazas,Taza Logo,Marketing Interno,115,26,60,140,3640,1560,2080
+2024-07-01,Llaveros,Llavero Metálico,Ventas,70,27,35,75,2025,945,1080
+2024-07-01,Llaveros,Llavero Metálico,RRHH,70,4,35,75,300,140,160
+2024-07-01,Llaveros,Llavero Metálico,Finanzas,70,2,35,75,150,70,80
+2024-07-01,Llaveros,Llavero Metálico,Operaciones,70,7,35,75,525,245,280
+2024-07-01,Llaveros,Llavero Metálico,Dirección,70,1,35,75,75,35,40
+2024-07-01,Llaveros,Llavero Metálico,Marketing Interno,70,0,35,75,0,0,0
+2024-07-01,Gorras,Gorra Bordada,Ventas,59,0,90,220,0,0,0
+2024-07-01,Gorras,Gorra Bordada,RRHH,59,6,90,220,1320,540,780
+2024-07-01,Gorras,Gorra Bordada,Finanzas,59,1,90,220,220,90,130
+2024-07-01,Gorras,Gorra Bordada,Operaciones,59,2,90,220,440,180,260
+2024-07-01,Gorras,Gorra Bordada,Dirección,59,13,90,220,2860,1170,1690
+2024-07-01,Gorras,Gorra Bordada,Marketing Interno,59,3,90,220,660,270,390
+2024-07-01,Bolsas,Bolsa Ecológica,Ventas,74,1,40,110,110,40,70
+2024-07-01,Bolsas,Bolsa Ecológica,RRHH,74,7,40,110,770,280,490
+2024-07-01,Bolsas,Bolsa Ecológica,Finanzas,74,12,40,110,1320,480,840
+2024-07-01,Bolsas,Bolsa Ecológica,Operaciones,74,7,40,110,770,280,490
+2024-07-01,Bolsas,Bolsa Ecológica,Dirección,74,3,40,110,330,120,210
+2024-07-01,Bolsas,Bolsa Ecológica,Marketing Interno,74,4,40,110,440,160,280
+2024-07-01,Playeras,Playera Edición,Ventas,119,10,120,260,2600,1200,1400
+2024-07-01,Playeras,Playera Edición,RRHH,119,18,120,260,4680,2160,2520
+2024-07-01,Playeras,Playera Edición,Finanzas,119,0,120,260,0,0,0
+2024-07-01,Playeras,Playera Edición,Operaciones,119,24,120,260,6240,2880,3360
+2024-07-01,Playeras,Playera Edición,Dirección,119,15,120,260,3900,1800,2100
+2024-07-01,Playeras,Playera Edición,Marketing Interno,119,1,120,260,260,120,140
+2024-07-01,Tazas,Taza Color,Ventas,134,4,60,140,560,240,320
+2024-07-01,Tazas,Taza Color,RRHH,134,22,60,140,3080,1320,1760
+2024-07-01,Tazas,Taza Color,Finanzas,134,18,60,140,2520,1080,1440
+2024-07-01,Tazas,Taza Color,Operaciones,134,2,60,140,280,120,160
+2024-07-01,Tazas,Taza Color,Dirección,134,3,60,140,420,180,240
+2024-07-01,Tazas,Taza Color,Marketing Interno,134,6,60,140,840,360,480
+2024-07-01,Llaveros,Llavero Acrílico,Ventas,70,4,35,75,300,140,160
+2024-07-01,Llaveros,Llavero Acrílico,RRHH,70,9,35,75,675,315,360
+2024-07-01,Llaveros,Llavero Acrílico,Finanzas,70,0,35,75,0,0,0
+2024-07-01,Llaveros,Llavero Acrílico,Operaciones,70,2,35,75,150,70,80
+2024-07-01,Llaveros,Llavero Acrílico,Dirección,70,9,35,75,675,315,360
+2024-07-01,Llaveros,Llavero Acrílico,Marketing Interno,70,16,35,75,1200,560,640
+2024-07-01,Gorras,Gorra Snapback,Ventas,70,7,90,220,1540,630,910
+2024-07-01,Gorras,Gorra Snapback,RRHH,70,9,90,220,1980,810,1170
+2024-07-01,Gorras,Gorra Snapback,Finanzas,70,3,90,220,660,270,390
+2024-07-01,Gorras,Gorra Snapback,Operaciones,70,4,90,220,880,360,520
+2024-07-01,Gorras,Gorra Snapback,Dirección,70,6,90,220,1320,540,780
+2024-07-01,Gorras,Gorra Snapback,Marketing Interno,70,0,90,220,0,0,0
+2024-07-01,Bolsas,Bolsa Premium,Ventas,65,0,40,110,0,0,0
+2024-07-01,Bolsas,Bolsa Premium,RRHH,65,12,40,110,1320,480,840
+2024-07-01,Bolsas,Bolsa Premium,Finanzas,65,5,40,110,550,200,350
+2024-07-01,Bolsas,Bolsa Premium,Operaciones,65,6,40,110,660,240,420
+2024-07-01,Bolsas,Bolsa Premium,Dirección,65,8,40,110,880,320,560
+2024-07-01,Bolsas,Bolsa Premium,Marketing Interno,65,3,40,110,330,120,210
+2024-08-01,Playeras,Playera Logo,Ventas,102,25,120,260,6500,3000,3500
+2024-08-01,Playeras,Playera Logo,RRHH,102,10,120,260,2600,1200,1400
+2024-08-01,Playeras,Playera Logo,Finanzas,102,2,120,260,520,240,280
+2024-08-01,Playeras,Playera Logo,Operaciones,102,6,120,260,1560,720,840
+2024-08-01,Playeras,Playera Logo,Dirección,102,8,120,260,2080,960,1120
+2024-08-01,Playeras,Playera Logo,Marketing Interno,102,19,120,260,4940,2280,2660
+2024-08-01,Tazas,Taza Logo,Ventas,122,54,60,140,7560,3240,4320
+2024-08-01,Tazas,Taza Logo,RRHH,122,15,60,140,2100,900,1200
+2024-08-01,Tazas,Taza Logo,Finanzas,122,6,60,140,840,360,480
+2024-08-01,Tazas,Taza Logo,Operaciones,122,9,60,140,1260,540,720
+2024-08-01,Tazas,Taza Logo,Dirección,122,16,60,140,2240,960,1280
+2024-08-01,Tazas,Taza Logo,Marketing Interno,122,10,60,140,1400,600,800
+2024-08-01,Llaveros,Llavero Metálico,Ventas,61,8,35,75,600,280,320
+2024-08-01,Llaveros,Llavero Metálico,RRHH,61,0,35,75,0,0,0
+2024-08-01,Llaveros,Llavero Metálico,Finanzas,61,2,35,75,150,70,80
+2024-08-01,Llaveros,Llavero Metálico,Operaciones,61,2,35,75,150,70,80
+2024-08-01,Llaveros,Llavero Metálico,Dirección,61,15,35,75,1125,525,600
+2024-08-01,Llaveros,Llavero Metálico,Marketing Interno,61,0,35,75,0,0,0
+2024-08-01,Gorras,Gorra Bordada,Ventas,67,14,90,220,3080,1260,1820
+2024-08-01,Gorras,Gorra Bordada,RRHH,67,2,90,220,440,180,260
+2024-08-01,Gorras,Gorra Bordada,Finanzas,67,1,90,220,220,90,130
+2024-08-01,Gorras,Gorra Bordada,Operaciones,67,9,90,220,1980,810,1170
+2024-08-01,Gorras,Gorra Bordada,Dirección,67,22,90,220,4840,1980,2860
+2024-08-01,Gorras,Gorra Bordada,Marketing Interno,67,6,90,220,1320,540,780
+2024-08-01,Bolsas,Bolsa Ecológica,Ventas,72,5,40,110,550,200,350
+2024-08-01,Bolsas,Bolsa Ecológica,RRHH,72,10,40,110,1100,400,700
+2024-08-01,Bolsas,Bolsa Ecológica,Finanzas,72,14,40,110,1540,560,980
+2024-08-01,Bolsas,Bolsa Ecológica,Operaciones,72,18,40,110,1980,720,1260
+2024-08-01,Bolsas,Bolsa Ecológica,Dirección,72,7,40,110,770,280,490
+2024-08-01,Bolsas,Bolsa Ecológica,Marketing Interno,72,3,40,110,330,120,210
+2024-08-01,Playeras,Playera Edición,Ventas,123,6,120,260,1560,720,840
+2024-08-01,Playeras,Playera Edición,RRHH,123,26,120,260,6760,3120,3640
+2024-08-01,Playeras,Playera Edición,Finanzas,123,30,120,260,7800,3600,4200
+2024-08-01,Playeras,Playera Edición,Operaciones,123,2,120,260,520,240,280
+2024-08-01,Playeras,Playera Edición,Dirección,123,16,120,260,4160,1920,2240
+2024-08-01,Playeras,Playera Edición,Marketing Interno,123,5,120,260,1300,600,700
+2024-08-01,Tazas,Taza Color,Ventas,114,13,60,140,1820,780,1040
+2024-08-01,Tazas,Taza Color,RRHH,114,17,60,140,2380,1020,1360
+2024-08-01,Tazas,Taza Color,Finanzas,114,10,60,140,1400,600,800
+2024-08-01,Tazas,Taza Color,Operaciones,114,7,60,140,980,420,560
+2024-08-01,Tazas,Taza Color,Dirección,114,6,60,140,840,360,480
+2024-08-01,Tazas,Taza Color,Marketing Interno,114,5,60,140,700,300,400
+2024-08-01,Llaveros,Llavero Acrílico,Ventas,85,1,35,75,75,35,40
+2024-08-01,Llaveros,Llavero Acrílico,RRHH,85,17,35,75,1275,595,680
+2024-08-01,Llaveros,Llavero Acrílico,Finanzas,85,37,35,75,2775,1295,1480
+2024-08-01,Llaveros,Llavero Acrílico,Operaciones,85,2,35,75,150,70,80
+2024-08-01,Llaveros,Llavero Acrílico,Dirección,85,0,35,75,0,0,0
+2024-08-01,Llaveros,Llavero Acrílico,Marketing Interno,85,18,35,75,1350,630,720
+2024-08-01,Gorras,Gorra Snapback,Ventas,72,10,90,220,2200,900,1300
+2024-08-01,Gorras,Gorra Snapback,RRHH,72,1,90,220,220,90,130
+2024-08-01,Gorras,Gorra Snapback,Finanzas,72,1,90,220,220,90,130
+2024-08-01,Gorras,Gorra Snapback,Operaciones,72,1,90,220,220,90,130
+2024-08-01,Gorras,Gorra Snapback,Dirección,72,11,90,220,2420,990,1430
+2024-08-01,Gorras,Gorra Snapback,Marketing Interno,72,7,90,220,1540,630,910
+2024-08-01,Bolsas,Bolsa Premium,Ventas,70,7,40,110,770,280,490
+2024-08-01,Bolsas,Bolsa Premium,RRHH,70,24,40,110,2640,960,1680
+2024-08-01,Bolsas,Bolsa Premium,Finanzas,70,8,40,110,880,320,560
+2024-08-01,Bolsas,Bolsa Premium,Operaciones,70,6,40,110,660,240,420
+2024-08-01,Bolsas,Bolsa Premium,Dirección,70,8,40,110,880,320,560
+2024-08-01,Bolsas,Bolsa Premium,Marketing Interno,70,5,40,110,550,200,350
+2024-09-01,Playeras,Playera Logo,Ventas,128,21,120,260,5460,2520,2940
+2024-09-01,Playeras,Playera Logo,RRHH,128,4,120,260,1040,480,560
+2024-09-01,Playeras,Playera Logo,Finanzas,128,7,120,260,1820,840,980
+2024-09-01,Playeras,Playera Logo,Operaciones,128,22,120,260,5720,2640,3080
+2024-09-01,Playeras,Playera Logo,Dirección,128,9,120,260,2340,1080,1260
+2024-09-01,Playeras,Playera Logo,Marketing Interno,128,1,120,260,260,120,140
+2024-09-01,Tazas,Taza Logo,Ventas,142,1,60,140,140,60,80
+2024-09-01,Tazas,Taza Logo,RRHH,142,17,60,140,2380,1020,1360
+2024-09-01,Tazas,Taza Logo,Finanzas,142,10,60,140,1400,600,800
+2024-09-01,Tazas,Taza Logo,Operaciones,142,8,60,140,1120,480,640
+2024-09-01,Tazas,Taza Logo,Dirección,142,25,60,140,3500,1500,2000
+2024-09-01,Tazas,Taza Logo,Marketing Interno,142,17,60,140,2380,1020,1360
+2024-09-01,Llaveros,Llavero Metálico,Ventas,60,7,35,75,525,245,280
+2024-09-01,Llaveros,Llavero Metálico,RRHH,60,0,35,75,0,0,0
+2024-09-01,Llaveros,Llavero Metálico,Finanzas,60,4,35,75,300,140,160
+2024-09-01,Llaveros,Llavero Metálico,Operaciones,60,7,35,75,525,245,280
+2024-09-01,Llaveros,Llavero Metálico,Dirección,60,10,35,75,750,350,400
+2024-09-01,Llaveros,Llavero Metálico,Marketing Interno,60,2,35,75,150,70,80
+2024-09-01,Gorras,Gorra Bordada,Ventas,79,2,90,220,440,180,260
+2024-09-01,Gorras,Gorra Bordada,RRHH,79,8,90,220,1760,720,1040
+2024-09-01,Gorras,Gorra Bordada,Finanzas,79,27,90,220,5940,2430,3510
+2024-09-01,Gorras,Gorra Bordada,Operaciones,79,2,90,220,440,180,260
+2024-09-01,Gorras,Gorra Bordada,Dirección,79,4,90,220,880,360,520
+2024-09-01,Gorras,Gorra Bordada,Marketing Interno,79,22,90,220,4840,1980,2860
+2024-09-01,Bolsas,Bolsa Ecológica,Ventas,76,9,40,110,990,360,630
+2024-09-01,Bolsas,Bolsa Ecológica,RRHH,76,3,40,110,330,120,210
+2024-09-01,Bolsas,Bolsa Ecológica,Finanzas,76,5,40,110,550,200,350
+2024-09-01,Bolsas,Bolsa Ecológica,Operaciones,76,2,40,110,220,80,140
+2024-09-01,Bolsas,Bolsa Ecológica,Dirección,76,28,40,110,3080,1120,1960
+2024-09-01,Bolsas,Bolsa Ecológica,Marketing Interno,76,10,40,110,1100,400,700
+2024-09-01,Playeras,Playera Edición,Ventas,117,3,120,260,780,360,420
+2024-09-01,Playeras,Playera Edición,RRHH,117,19,120,260,4940,2280,2660
+2024-09-01,Playeras,Playera Edición,Finanzas,117,15,120,260,3900,1800,2100
+2024-09-01,Playeras,Playera Edición,Operaciones,117,21,120,260,5460,2520,2940
+2024-09-01,Playeras,Playera Edición,Dirección,117,0,120,260,0,0,0
+2024-09-01,Playeras,Playera Edición,Marketing Interno,117,46,120,260,11960,5520,6440
+2024-09-01,Tazas,Taza Color,Ventas,141,44,60,140,6160,2640,3520
+2024-09-01,Tazas,Taza Color,RRHH,141,21,60,140,2940,1260,1680
+2024-09-01,Tazas,Taza Color,Finanzas,141,2,60,140,280,120,160
+2024-09-01,Tazas,Taza Color,Operaciones,141,15,60,140,2100,900,1200
+2024-09-01,Tazas,Taza Color,Dirección,141,16,60,140,2240,960,1280
+2024-09-01,Tazas,Taza Color,Marketing Interno,141,9,60,140,1260,540,720
+2024-09-01,Llaveros,Llavero Acrílico,Ventas,85,14,35,75,1050,490,560
+2024-09-01,Llaveros,Llavero Acrílico,RRHH,85,6,35,75,450,210,240
+2024-09-01,Llaveros,Llavero Acrílico,Finanzas,85,0,35,75,0,0,0
+2024-09-01,Llaveros,Llavero Acrílico,Operaciones,85,8,35,75,600,280,320
+2024-09-01,Llaveros,Llavero Acrílico,Dirección,85,6,35,75,450,210,240
+2024-09-01,Llaveros,Llavero Acrílico,Marketing Interno,85,2,35,75,150,70,80
+2024-09-01,Gorras,Gorra Snapback,Ventas,72,3,90,220,660,270,390
+2024-09-01,Gorras,Gorra Snapback,RRHH,72,13,90,220,2860,1170,1690
+2024-09-01,Gorras,Gorra Snapback,Finanzas,72,0,90,220,0,0,0
+2024-09-01,Gorras,Gorra Snapback,Operaciones,72,3,90,220,660,270,390
+2024-09-01,Gorras,Gorra Snapback,Dirección,72,4,90,220,880,360,520
+2024-09-01,Gorras,Gorra Snapback,Marketing Interno,72,6,90,220,1320,540,780
+2024-09-01,Bolsas,Bolsa Premium,Ventas,84,20,40,110,2200,800,1400
+2024-09-01,Bolsas,Bolsa Premium,RRHH,84,9,40,110,990,360,630
+2024-09-01,Bolsas,Bolsa Premium,Finanzas,84,3,40,110,330,120,210
+2024-09-01,Bolsas,Bolsa Premium,Operaciones,84,9,40,110,990,360,630
+2024-09-01,Bolsas,Bolsa Premium,Dirección,84,2,40,110,220,80,140
+2024-09-01,Bolsas,Bolsa Premium,Marketing Interno,84,3,40,110,330,120,210
+2024-10-01,Playeras,Playera Logo,Ventas,120,13,120,260,3380,1560,1820
+2024-10-01,Playeras,Playera Logo,RRHH,120,25,120,260,6500,3000,3500
+2024-10-01,Playeras,Playera Logo,Finanzas,120,29,120,260,7540,3480,4060
+2024-10-01,Playeras,Playera Logo,Operaciones,120,0,120,260,0,0,0
+2024-10-01,Playeras,Playera Logo,Dirección,120,32,120,260,8320,3840,4480
+2024-10-01,Playeras,Playera Logo,Marketing Interno,120,5,120,260,1300,600,700
+2024-10-01,Tazas,Taza Logo,Ventas,149,0,60,140,0,0,0
+2024-10-01,Tazas,Taza Logo,RRHH,149,60,60,140,8400,3600,4800
+2024-10-01,Tazas,Taza Logo,Finanzas,149,7,60,140,980,420,560
+2024-10-01,Tazas,Taza Logo,Operaciones,149,9,60,140,1260,540,720
+2024-10-01,Tazas,Taza Logo,Dirección,149,0,60,140,0,0,0
+2024-10-01,Tazas,Taza Logo,Marketing Interno,149,14,60,140,1960,840,1120
+2024-10-01,Llaveros,Llavero Metálico,Ventas,62,3,35,75,225,105,120
+2024-10-01,Llaveros,Llavero Metálico,RRHH,62,4,35,75,300,140,160
+2024-10-01,Llaveros,Llavero Metálico,Finanzas,62,0,35,75,0,0,0
+2024-10-01,Llaveros,Llavero Metálico,Operaciones,62,8,35,75,600,280,320
+2024-10-01,Llaveros,Llavero Metálico,Dirección,62,3,35,75,225,105,120
+2024-10-01,Llaveros,Llavero Metálico,Marketing Interno,62,4,35,75,300,140,160
+2024-10-01,Gorras,Gorra Bordada,Ventas,68,1,90,220,220,90,130
+2024-10-01,Gorras,Gorra Bordada,RRHH,68,1,90,220,220,90,130
+2024-10-01,Gorras,Gorra Bordada,Finanzas,68,15,90,220,3300,1350,1950
+2024-10-01,Gorras,Gorra Bordada,Operaciones,68,23,90,220,5060,2070,2990
+2024-10-01,Gorras,Gorra Bordada,Dirección,68,3,90,220,660,270,390
+2024-10-01,Gorras,Gorra Bordada,Marketing Interno,68,2,90,220,440,180,260
+2024-10-01,Bolsas,Bolsa Ecológica,Ventas,74,1,40,110,110,40,70
+2024-10-01,Bolsas,Bolsa Ecológica,RRHH,74,12,40,110,1320,480,840
+2024-10-01,Bolsas,Bolsa Ecológica,Finanzas,74,10,40,110,1100,400,700
+2024-10-01,Bolsas,Bolsa Ecológica,Operaciones,74,0,40,110,0,0,0
+2024-10-01,Bolsas,Bolsa Ecológica,Dirección,74,2,40,110,220,80,140
+2024-10-01,Bolsas,Bolsa Ecológica,Marketing Interno,74,2,40,110,220,80,140
+2024-10-01,Playeras,Playera Edición,Ventas,126,26,120,260,6760,3120,3640
+2024-10-01,Playeras,Playera Edición,RRHH,126,3,120,260,780,360,420
+2024-10-01,Playeras,Playera Edición,Finanzas,126,17,120,260,4420,2040,2380
+2024-10-01,Playeras,Playera Edición,Operaciones,126,4,120,260,1040,480,560
+2024-10-01,Playeras,Playera Edición,Dirección,126,1,120,260,260,120,140
+2024-10-01,Playeras,Playera Edición,Marketing Interno,126,4,120,260,1040,480,560
+2024-10-01,Tazas,Taza Color,Ventas,127,12,60,140,1680,720,960
+2024-10-01,Tazas,Taza Color,RRHH,127,26,60,140,3640,1560,2080
+2024-10-01,Tazas,Taza Color,Finanzas,127,5,60,140,700,300,400
+2024-10-01,Tazas,Taza Color,Operaciones,127,8,60,140,1120,480,640
+2024-10-01,Tazas,Taza Color,Dirección,127,54,60,140,7560,3240,4320
+2024-10-01,Tazas,Taza Color,Marketing Interno,127,0,60,140,0,0,0
+2024-10-01,Llaveros,Llavero Acrílico,Ventas,56,0,35,75,0,0,0
+2024-10-01,Llaveros,Llavero Acrílico,RRHH,56,3,35,75,225,105,120
+2024-10-01,Llaveros,Llavero Acrílico,Finanzas,56,2,35,75,150,70,80
+2024-10-01,Llaveros,Llavero Acrílico,Operaciones,56,8,35,75,600,280,320
+2024-10-01,Llaveros,Llavero Acrílico,Dirección,56,6,35,75,450,210,240
+2024-10-01,Llaveros,Llavero Acrílico,Marketing Interno,56,1,35,75,75,35,40
+2024-10-01,Gorras,Gorra Snapback,Ventas,64,4,90,220,880,360,520
+2024-10-01,Gorras,Gorra Snapback,RRHH,64,12,90,220,2640,1080,1560
+2024-10-01,Gorras,Gorra Snapback,Finanzas,64,6,90,220,1320,540,780
+2024-10-01,Gorras,Gorra Snapback,Operaciones,64,10,90,220,2200,900,1300
+2024-10-01,Gorras,Gorra Snapback,Dirección,64,7,90,220,1540,630,910
+2024-10-01,Gorras,Gorra Snapback,Marketing Interno,64,4,90,220,880,360,520
+2024-10-01,Bolsas,Bolsa Premium,Ventas,88,11,40,110,1210,440,770
+2024-10-01,Bolsas,Bolsa Premium,RRHH,88,3,40,110,330,120,210
+2024-10-01,Bolsas,Bolsa Premium,Finanzas,88,12,40,110,1320,480,840
+2024-10-01,Bolsas,Bolsa Premium,Operaciones,88,9,40,110,990,360,630
+2024-10-01,Bolsas,Bolsa Premium,Dirección,88,3,40,110,330,120,210
+2024-10-01,Bolsas,Bolsa Premium,Marketing Interno,88,0,40,110,0,0,0
+2024-11-01,Playeras,Playera Logo,Ventas,112,3,120,260,780,360,420
+2024-11-01,Playeras,Playera Logo,RRHH,112,1,120,260,260,120,140
+2024-11-01,Playeras,Playera Logo,Finanzas,112,20,120,260,5200,2400,2800
+2024-11-01,Playeras,Playera Logo,Operaciones,112,47,120,260,12220,5640,6580
+2024-11-01,Playeras,Playera Logo,Dirección,112,8,120,260,2080,960,1120
+2024-11-01,Playeras,Playera Logo,Marketing Interno,112,2,120,260,520,240,280
+2024-11-01,Tazas,Taza Logo,Ventas,112,2,60,140,280,120,160
+2024-11-01,Tazas,Taza Logo,RRHH,112,17,60,140,2380,1020,1360
+2024-11-01,Tazas,Taza Logo,Finanzas,112,6,60,140,840,360,480
+2024-11-01,Tazas,Taza Logo,Operaciones,112,16,60,140,2240,960,1280
+2024-11-01,Tazas,Taza Logo,Dirección,112,21,60,140,2940,1260,1680
+2024-11-01,Tazas,Taza Logo,Marketing Interno,112,36,60,140,5040,2160,2880
+2024-11-01,Llaveros,Llavero Metálico,Ventas,62,8,35,75,600,280,320
+2024-11-01,Llaveros,Llavero Metálico,RRHH,62,8,35,75,600,280,320
+2024-11-01,Llaveros,Llavero Metálico,Finanzas,62,3,35,75,225,105,120
+2024-11-01,Llaveros,Llavero Metálico,Operaciones,62,3,35,75,225,105,120
+2024-11-01,Llaveros,Llavero Metálico,Dirección,62,4,35,75,300,140,160
+2024-11-01,Llaveros,Llavero Metálico,Marketing Interno,62,0,35,75,0,0,0
+2024-11-01,Gorras,Gorra Bordada,Ventas,84,11,90,220,2420,990,1430
+2024-11-01,Gorras,Gorra Bordada,RRHH,84,0,90,220,0,0,0
+2024-11-01,Gorras,Gorra Bordada,Finanzas,84,2,90,220,440,180,260
+2024-11-01,Gorras,Gorra Bordada,Operaciones,84,20,90,220,4400,1800,2600
+2024-11-01,Gorras,Gorra Bordada,Dirección,84,1,90,220,220,90,130
+2024-11-01,Gorras,Gorra Bordada,Marketing Interno,84,14,90,220,3080,1260,1820
+2024-11-01,Bolsas,Bolsa Ecológica,Ventas,63,3,40,110,330,120,210
+2024-11-01,Bolsas,Bolsa Ecológica,RRHH,63,9,40,110,990,360,630
+2024-11-01,Bolsas,Bolsa Ecológica,Finanzas,63,2,40,110,220,80,140
+2024-11-01,Bolsas,Bolsa Ecológica,Operaciones,63,6,40,110,660,240,420
+2024-11-01,Bolsas,Bolsa Ecológica,Dirección,63,4,40,110,440,160,280
+2024-11-01,Bolsas,Bolsa Ecológica,Marketing Interno,63,8,40,110,880,320,560
+2024-11-01,Playeras,Playera Edición,Ventas,141,0,120,260,0,0,0
+2024-11-01,Playeras,Playera Edición,RRHH,141,7,120,260,1820,840,980
+2024-11-01,Playeras,Playera Edición,Finanzas,141,22,120,260,5720,2640,3080
+2024-11-01,Playeras,Playera Edición,Operaciones,141,1,120,260,260,120,140
+2024-11-01,Playeras,Playera Edición,Dirección,141,17,120,260,4420,2040,2380
+2024-11-01,Playeras,Playera Edición,Marketing Interno,141,22,120,260,5720,2640,3080
+2024-11-01,Tazas,Taza Color,Ventas,115,0,60,140,0,0,0
+2024-11-01,Tazas,Taza Color,RRHH,115,16,60,140,2240,960,1280
+2024-11-01,Tazas,Taza Color,Finanzas,115,8,60,140,1120,480,640
+2024-11-01,Tazas,Taza Color,Operaciones,115,14,60,140,1960,840,1120
+2024-11-01,Tazas,Taza Color,Dirección,115,7,60,140,980,420,560
+2024-11-01,Tazas,Taza Color,Marketing Interno,115,3,60,140,420,180,240
+2024-11-01,Llaveros,Llavero Acrílico,Ventas,79,4,35,75,300,140,160
+2024-11-01,Llaveros,Llavero Acrílico,RRHH,79,12,35,75,900,420,480
+2024-11-01,Llaveros,Llavero Acrílico,Finanzas,79,6,35,75,450,210,240
+2024-11-01,Llaveros,Llavero Acrílico,Operaciones,79,1,35,75,75,35,40
+2024-11-01,Llaveros,Llavero Acrílico,Dirección,79,34,35,75,2550,1190,1360
+2024-11-01,Llaveros,Llavero Acrílico,Marketing Interno,79,2,35,75,150,70,80
+2024-11-01,Gorras,Gorra Snapback,Ventas,89,4,90,220,880,360,520
+2024-11-01,Gorras,Gorra Snapback,RRHH,89,11,90,220,2420,990,1430
+2024-11-01,Gorras,Gorra Snapback,Finanzas,89,7,90,220,1540,630,910
+2024-11-01,Gorras,Gorra Snapback,Operaciones,89,8,90,220,1760,720,1040
+2024-11-01,Gorras,Gorra Snapback,Dirección,89,5,90,220,1100,450,650
+2024-11-01,Gorras,Gorra Snapback,Marketing Interno,89,6,90,220,1320,540,780
+2024-11-01,Bolsas,Bolsa Premium,Ventas,80,1,40,110,110,40,70
+2024-11-01,Bolsas,Bolsa Premium,RRHH,80,20,40,110,2200,800,1400
+2024-11-01,Bolsas,Bolsa Premium,Finanzas,80,13,40,110,1430,520,910
+2024-11-01,Bolsas,Bolsa Premium,Operaciones,80,0,40,110,0,0,0
+2024-11-01,Bolsas,Bolsa Premium,Dirección,80,5,40,110,550,200,350
+2024-11-01,Bolsas,Bolsa Premium,Marketing Interno,80,12,40,110,1320,480,840
+2024-12-01,Playeras,Playera Logo,Ventas,108,0,120,260,0,0,0
+2024-12-01,Playeras,Playera Logo,RRHH,108,10,120,260,2600,1200,1400
+2024-12-01,Playeras,Playera Logo,Finanzas,108,3,120,260,780,360,420
+2024-12-01,Playeras,Playera Logo,Operaciones,108,23,120,260,5980,2760,3220
+2024-12-01,Playeras,Playera Logo,Dirección,108,32,120,260,8320,3840,4480
+2024-12-01,Playeras,Playera Logo,Marketing Interno,108,26,120,260,6760,3120,3640
+2024-12-01,Tazas,Taza Logo,Ventas,119,11,60,140,1540,660,880
+2024-12-01,Tazas,Taza Logo,RRHH,119,51,60,140,7140,3060,4080
+2024-12-01,Tazas,Taza Logo,Finanzas,119,1,60,140,140,60,80
+2024-12-01,Tazas,Taza Logo,Operaciones,119,26,60,140,3640,1560,2080
+2024-12-01,Tazas,Taza Logo,Dirección,119,7,60,140,980,420,560
+2024-12-01,Tazas,Taza Logo,Marketing Interno,119,3,60,140,420,180,240
+2024-12-01,Llaveros,Llavero Metálico,Ventas,55,9,35,75,675,315,360
+2024-12-01,Llaveros,Llavero Metálico,RRHH,55,0,35,75,0,0,0
+2024-12-01,Llaveros,Llavero Metálico,Finanzas,55,2,35,75,150,70,80
+2024-12-01,Llaveros,Llavero Metálico,Operaciones,55,5,35,75,375,175,200
+2024-12-01,Llaveros,Llavero Metálico,Dirección,55,11,35,75,825,385,440
+2024-12-01,Llaveros,Llavero Metálico,Marketing Interno,55,2,35,75,150,70,80
+2024-12-01,Gorras,Gorra Bordada,Ventas,73,2,90,220,440,180,260
+2024-12-01,Gorras,Gorra Bordada,RRHH,73,0,90,220,0,0,0
+2024-12-01,Gorras,Gorra Bordada,Finanzas,73,20,90,220,4400,1800,2600
+2024-12-01,Gorras,Gorra Bordada,Operaciones,73,0,90,220,0,0,0
+2024-12-01,Gorras,Gorra Bordada,Dirección,73,21,90,220,4620,1890,2730
+2024-12-01,Gorras,Gorra Bordada,Marketing Interno,73,7,90,220,1540,630,910
+2024-12-01,Bolsas,Bolsa Ecológica,Ventas,87,5,40,110,550,200,350
+2024-12-01,Bolsas,Bolsa Ecológica,RRHH,87,19,40,110,2090,760,1330
+2024-12-01,Bolsas,Bolsa Ecológica,Finanzas,87,6,40,110,660,240,420
+2024-12-01,Bolsas,Bolsa Ecológica,Operaciones,87,8,40,110,880,320,560
+2024-12-01,Bolsas,Bolsa Ecológica,Dirección,87,13,40,110,1430,520,910
+2024-12-01,Bolsas,Bolsa Ecológica,Marketing Interno,87,27,40,110,2970,1080,1890
+2024-12-01,Playeras,Playera Edición,Ventas,117,14,120,260,3640,1680,1960
+2024-12-01,Playeras,Playera Edición,RRHH,117,6,120,260,1560,720,840
+2024-12-01,Playeras,Playera Edición,Finanzas,117,23,120,260,5980,2760,3220
+2024-12-01,Playeras,Playera Edición,Operaciones,117,17,120,260,4420,2040,2380
+2024-12-01,Playeras,Playera Edición,Dirección,117,18,120,260,4680,2160,2520
+2024-12-01,Playeras,Playera Edición,Marketing Interno,117,14,120,260,3640,1680,1960
+2024-12-01,Tazas,Taza Color,Ventas,93,6,60,140,840,360,480
+2024-12-01,Tazas,Taza Color,RRHH,93,6,60,140,840,360,480
+2024-12-01,Tazas,Taza Color,Finanzas,93,14,60,140,1960,840,1120
+2024-12-01,Tazas,Taza Color,Operaciones,93,3,60,140,420,180,240
+2024-12-01,Tazas,Taza Color,Dirección,93,37,60,140,5180,2220,2960
+2024-12-01,Tazas,Taza Color,Marketing Interno,93,19,60,140,2660,1140,1520
+2024-12-01,Llaveros,Llavero Acrílico,Ventas,56,14,35,75,1050,490,560
+2024-12-01,Llaveros,Llavero Acrílico,RRHH,56,3,35,75,225,105,120
+2024-12-01,Llaveros,Llavero Acrílico,Finanzas,56,4,35,75,300,140,160
+2024-12-01,Llaveros,Llavero Acrílico,Operaciones,56,0,35,75,0,0,0
+2024-12-01,Llaveros,Llavero Acrílico,Dirección,56,24,35,75,1800,840,960
+2024-12-01,Llaveros,Llavero Acrílico,Marketing Interno,56,1,35,75,75,35,40
+2024-12-01,Gorras,Gorra Snapback,Ventas,87,14,90,220,3080,1260,1820
+2024-12-01,Gorras,Gorra Snapback,RRHH,87,5,90,220,1100,450,650
+2024-12-01,Gorras,Gorra Snapback,Finanzas,87,3,90,220,660,270,390
+2024-12-01,Gorras,Gorra Snapback,Operaciones,87,4,90,220,880,360,520
+2024-12-01,Gorras,Gorra Snapback,Dirección,87,4,90,220,880,360,520
+2024-12-01,Gorras,Gorra Snapback,Marketing Interno,87,30,90,220,6600,2700,3900
+2024-12-01,Bolsas,Bolsa Premium,Ventas,66,10,40,110,1100,400,700
+2024-12-01,Bolsas,Bolsa Premium,RRHH,66,13,40,110,1430,520,910
+2024-12-01,Bolsas,Bolsa Premium,Finanzas,66,26,40,110,2860,1040,1820
+2024-12-01,Bolsas,Bolsa Premium,Operaciones,66,0,40,110,0,0,0
+2024-12-01,Bolsas,Bolsa Premium,Dirección,66,2,40,110,220,80,140
+2024-12-01,Bolsas,Bolsa Premium,Marketing Interno,66,7,40,110,770,280,490
